@@ -28,7 +28,7 @@ Por ordem de preferência, deve-se:
 
 ## 4. Modularidade deve ser priorizada
 
-Deve ser possível utilizar componentes independentes do software principal. As interfaces entre componentes devem ser claras para facilitar sua interopeabilidade com outros sistemas.
+Deve ser possível utilizar componentes independentes do software principal. As interfaces entre componentes devem ser claras para facilitar a interopeabilidade com outros sistemas.
 
 ## 5. Barreiras técnicas devem ser minimizadas
 
@@ -38,6 +38,6 @@ Barreiras técnicas criam desigualdade. Minimizá-las contribue para a democrati
 
 Acreditamos que plataformas devem ser disponibilizadas para o usuário final em parceria com provedores de infraestrutura.
 
-Deve-se garantir a liberdade de escolha ao operador através do suporte a múltiplas alternativas de deploy da plataforma e suas dependências.
+Deve-se garantir a liberdade de escolha ao operador através do suporte a múltiplas alternativas de deploy da plataforma e de suas dependências.
 
 Em nome da facilidade, escalabilidade e confiabilidade da operação, a plataforma pode depender de soluções proprietárias de infraestrutura. Contudo, deve sempre existir uma alternativa equivalente que torne essas dependências dispensáveis.
