@@ -1,6 +1,8 @@
 # Estratégia de Desenvolvimento de Software do Instituto Unibanco
 
-O desenvolvimento de software no Instituto Unibanco segue diretrizes que nos permitem contribuir de forma eficiente para os principais desafios da Educação.
+A Estratégia de Desenvolvimento de Software do Instituto Unibanco orienta a concepção, desenvolvimento e evolução de produtos digitais voltados à melhoria da educação pública, com foco em escala, eficiência e geração de valor para as redes de ensino.
+
+Essa estratégia está alinhada às abordagens internacionais de GovTech e Infraestruturas Públicas Digitais (DPI – Digital Public Infrastructure), visando à construção de bens públicos digitais que sejam reutilizáveis, interoperáveis, abertos e sustentáveis, contribuindo para o fortalecimento do ecossistema educacional e para a ampliação do impacto das políticas públicas.
 
 Este manifesto declara as principais escolhas que definem nossa estratégia.
 
